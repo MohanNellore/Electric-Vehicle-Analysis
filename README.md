@@ -1,6 +1,6 @@
 # 🔌 Electric Vehicle Analysis
 
-This project contains an exploratory data analysis (EDA) and visualization dashboard related to Electric Vehicle (EV) adoption. It aims to uncover trends in EV models, manufacturers, pricing, electric range, and geographic distribution using Python and Power BI.
+This project provides an exploratory data analysis (EDA) and interactive dashboard focused on Electric Vehicle (EV) adoption. It includes trends in models, manufacturers, pricing, electric range, and geographic distribution using Python and Power BI.
 
 ---
 
@@ -8,35 +8,36 @@ This project contains an exploratory data analysis (EDA) and visualization dashb
 
 | File Name                              | Description                                      |
 |----------------------------------------|--------------------------------------------------|
-| `Electric_Vehicle_Population_Data1.csv` | Raw dataset of electric vehicles used for analysis |
-| `Electric Vehicle Analysis.ipynb`       | Jupyter notebook performing data analysis and visualizations |
-| `Dashboard.pbix`                        | Power BI dashboard with interactive visuals |
-| `Background.jpg`                        | Custom background image used in Power BI |
+| `Dashboard.pbix`                        | Power BI dashboard with interactive visuals      |
+| `Electric Vehicle Analysis.ipynb`       | Jupyter notebook for EDA and visualization       |
+| `Background.jpg`                        | Background image used in Power BI dashboard      |
+| `Electric_Vehicle_Population_Data1.csv` | ✅ **[Download from Google Drive](https://drive.google.com/file/d/1RPpjwt6lRFtIlHPE15wx3bmDTtv2rweB/view?usp=drive_link)** |
 
 ---
 
 ## 🔍 Key Insights
 
-- **Increasing EV Adoption**: Growth in vehicle count over the years.
-- **Top Manufacturers**: Tesla and Nissan lead the market.
-- **Popular Models**: Certain models dominate EV ownership.
-- **Range vs Price**: Longer range vehicles cost more.
-- **Geographic Hotspots**: High EV presence in select counties and ZIP codes.
-- **CAFV Eligibility**: Majority of vehicles qualify for green incentives.
+- 📈 **Increasing EV Adoption** over recent years.
+- 🏭 **Top Manufacturers** like Tesla and Nissan dominate the market.
+- 🚘 **Most Popular Models** show strong brand preference.
+- ⚡ **Higher Range = Higher Cost** trend observed.
+- 🌍 **Geographic Hotspots** in urban and tech-savvy counties.
+- ✅ **CAFV Incentive Eligibility** is high across the dataset.
 
 ---
 
 ## 📊 Tools Used
 
-- **Python (Pandas, Seaborn, Matplotlib)** for data analysis
-- **Power BI** for dashboard creation
+- **Python** (`pandas`, `seaborn`, `matplotlib`) for data analysis
+- **Power BI** for dashboard development
 - **GitHub** for version control
 
 ---
 
 ## 🚀 Getting Started
 
-To run this project:
+To explore the project:
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/electric-vehicle-analysis.git
