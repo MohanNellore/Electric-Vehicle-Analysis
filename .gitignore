@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large dataset: download it separately into data/ (see data/README.md)
+data/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Power BI temp / autosave files
+*.pbix.tmp
+*.pbi.autosave
+~$*
